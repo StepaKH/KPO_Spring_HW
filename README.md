@@ -4,4 +4,7 @@
 ### Реализованы следующие классы: Boeing, Fighter - реализуют интерфейс Plane; И класс Dodge.
 В рамках третьего пункта в application.properties добавлено - plane.type=fighter: Обрабатывается метод у класса fighter, а не у класса Boeing.
 
+### Что сделано для пункта со звездочкой:
+В ConfigBeans у метода: Boeing getBoeing() добавлено @Scope("prototype")
+
 
