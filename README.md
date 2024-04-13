@@ -7,4 +7,9 @@
 ### Что сделано для пункта со звездочкой:
 В ConfigBeans у метода: Boeing getBoeing() добавлено @Scope("prototype")
 
+### Тестирование программы
+Реализован Controller для работы с запросами:
+1) http://localhost:8080/get-dodge-voice
+2) http://localhost:8080/get-plane-boarding
+
 
