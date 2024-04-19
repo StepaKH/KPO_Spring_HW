@@ -19,5 +19,13 @@
 2) http://localhost:8080/hello-user
 3) http://localhost:8080/hello-admin
 
+### Входные данные
+1) USER:
+   Name: Alex
+   Password: user
+2) ADMIN:
+   Name: Stepan
+   Password: admin
+
 
 
