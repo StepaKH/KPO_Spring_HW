@@ -12,7 +12,7 @@
 1) http://localhost:8080/get-dodge-voice
 2) http://localhost:8080/get-plane-boarding
 
-[1. hw_2](https://github.com/StepaKH/KPO_Spring_HW/tree/main/HW_2)
+[2. hw_2](https://github.com/StepaKH/KPO_Spring_HW/tree/main/HW_2)
 ### Тестирование программы
 Реализован Controller для работы с запросами:
 1) http://localhost:8080/hello-all
