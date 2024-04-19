@@ -21,10 +21,14 @@
 
 ### Входные данные
 1) USER:
+   
    Name: Alex
+   
    Password: user
-2) ADMIN:
+3) ADMIN:
+   
    Name: Stepan
+   
    Password: admin
 
 
