@@ -33,7 +33,7 @@
 
 [3. hw_3](https://github.com/StepaKH/KPO_Spring_HW/tree/main/TODO)
 # Реализованы все пункты домашнего задания
-### Созданные классы: Task и Controller
+### Реализованы классы: Task и Controller
 
 1) Task - Задает параметры, которые будет хранить TODO лист. Также имеется обыкновенный конструктор.
 2) Controller - реализует функции, которые были даны в задании: createTask, findAll
