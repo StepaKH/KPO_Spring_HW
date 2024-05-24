@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.hse.demo.ServiceTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-05-20T10:28:33" hostname="LAPTOP-LLVJPVJL" time="2.312">
+  <properties/>
+  <testcase name="addTests()" classname="ru.hse.demo.ServiceTests" time="2.226"/>
+  <testcase name="deleteTests()" classname="ru.hse.demo.ServiceTests" time="0.065"/>
+  <testcase name="getAllTests()" classname="ru.hse.demo.ServiceTests" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

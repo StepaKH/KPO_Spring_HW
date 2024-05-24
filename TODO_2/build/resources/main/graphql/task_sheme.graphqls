@@ -1,0 +1,13 @@
+type Task {
+    character: String,
+    header: String
+}
+
+type Query {
+    findAll: [Task]
+}
+
+type Mutation {
+    createTask(character: String, header: String): Task
+}
+
