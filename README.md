@@ -37,3 +37,5 @@
 
 1) Task - Задает параметры, которые будет хранить TODO лист. Также имеется обыкновенный конструктор.
 2) Controller - реализует функции, которые были даны в задании: createTask, findAll
+
+[4. hw_4](https://github.com/StepaKH/KPO_Spring_HW/tree/main/TODO_2)
